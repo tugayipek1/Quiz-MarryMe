@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <h2 align="center">Java_Vue_App_Kanban</h2>
+  <h2 align="center">Marry me?</h2>
   <p align="center">
     <br />
     <br />
