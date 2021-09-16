@@ -34,7 +34,7 @@ Tugay İPEK- <a href="https://github.com/tugayipek1">Github</a>
 [issues-shield]: https://img.shields.io/github/issues/tugayipek1/Quiz-MarryMe.svg?style=for-the-badge
 [issues-url]: https://github.com/tugayipek1/Quiz-MarryMe/issues
 [license-shield]: https://img.shields.io/github/license/tugayipek1/Quiz-MarryMe.svg?style=for-the-badge
-[license-url]: https://github.com/tugayipek1/MarryMe/blob/master/LICENSE.txt
+[license-url]: https://github.com/tugayipek1/Quiz-MarryMe/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tugay-ipek-5523ab188
 
